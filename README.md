@@ -6,7 +6,7 @@ This project demonstrates the use of JavaScript and the DOM to manipulate the st
 To view the hosted version of this project, follow these steps:- 
 
 1. Open your web browser.
-2. Go to the following URL :- [].
+2. Go to the following URL :- [https://lovenoelkujur.github.io/Dom-proj-1/].
 3. Explore the project.
 
 #Feel free to reach out if you encounter any issue or have any questions.
